@@ -1,0 +1,57 @@
+c:\users\андрей\documents\visual studio 2012\Projects\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.exe.config
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.exe.config
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.exe
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.pdb
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.csprojResolveAssemblyReference.cache
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.AboutBox1.resources
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form1.resources
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Properties.Resources.resources
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.csproj.GenerateResource.Cache
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.exe
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.pdb
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\AboutBox1.resx
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\AboutBox1.cs
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\AboutBox1.Designer.cs
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form2.resources
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form3.resources
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form4.resources
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form5.resources
+K:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form6.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.exe
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.pdb
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\bin\Debug\AboutBox1.resx
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\bin\Debug\AboutBox1.cs
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\bin\Debug\AboutBox1.Designer.cs
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.exe
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.pdb
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.AboutBox1.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form1.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form2.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form3.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form4.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form5.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.csproj.GenerateResource.Cache
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.exe.config
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.exe
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.pdb
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\AboutBox1.resx
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\AboutBox1.cs
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\AboutBox1.Designer.cs
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.exe
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.pdb
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.csprojResolveAssemblyReference.cache
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.AboutBox1.resources
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form1.resources
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form2.resources
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form3.resources
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form4.resources
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Form5.resources
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита_Данных_1.Properties.Resources.resources
+E:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.csproj.GenerateResource.Cache
+I:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\bin\Debug\Защита Данных 1.exe.config
+I:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.exe
+I:\4 курс\Хорев\Защита Данных 1\Защита Данных 1\obj\Debug\Защита Данных 1.pdb
+C:\Users\Андрей\Downloads\[ALEX]\4 курс\Хорев\Защита Данных 2\Защита Данных 1\bin\Debug\Защита Данных 1.exe.config
+C:\Users\Андрей\Downloads\[ALEX]\4 курс\Хорев\Защита Данных 2\Защита Данных 1\obj\Debug\Защита Данных 1.exe
+C:\Users\Андрей\Downloads\[ALEX]\4 курс\Хорев\Защита Данных 2\Защита Данных 1\obj\Debug\Защита Данных 1.pdb
